@@ -9,9 +9,10 @@ Client request to modify starter code to create an application called Note Taker
 npm start
 ```
 ![CONSOLE DEMO](./Assets/Screen_Recording_2023-03-02_at_9_32_16_PM_AdobeExpress.gif)
-[HEROKU DEPLOY LINK](https://frozen-depths-45872.herokuapp.com/notes)
 
 ![USER DEMO](./Assets/Screen_Recording_2023-03-02_at_9_25_59_PM_AdobeExpress.gif)
+
+[HEROKU DEPLOY LINK](https://frozen-depths-45872.herokuapp.com/notes)
 
 ## User Story
 
